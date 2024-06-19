@@ -33,19 +33,14 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Asad Raza",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://asadraza.xyz"
     },
     {
-      "name": "Community",
+      "name": "dB Labs",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://decibel-labs.com"
     }
   ],
   "navigation": [
